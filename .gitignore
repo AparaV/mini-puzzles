@@ -5,3 +5,6 @@
 
 #Music files
 *.mp3
+
+#Misc
+*.idea
